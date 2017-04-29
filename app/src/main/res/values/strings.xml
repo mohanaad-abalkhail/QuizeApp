@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Quize App</string>
+
+    <!-- Button String -->
+    <string name="buttonSubmit">Submit</string>
+
+    <!-- Here is the Strings for all of the questions -->
+    <string name="question1">What club have the most championships in saudi league?</string>
+    <string name="question2">Which club took the trophy home last year?</string>
+    <string name="question3">Which of these teams who never won any championship?</string>
+    <string name="question4">Is Al Hilal club the best team of all times?</string>
+    <string name="question5">Is Al Nasser Asia club of the century?</string>
+    <string name="question6">Who is the most skillful player who ever touched the ball?</string>
+    <string name="question7">Which of those players are Al Hilal legends?</string>
+
+    <!-- Here is the Strings for all of the answers -->
+    <!-- answer for Q2 -->
+    <string name="answers2">Al Hilal</string>
+    <string name="answers3">Al Ittehad</string>
+    <string name="answers4">Al Nasser</string>
+    <string name="answers5">Al Ahli</string>
+    <!-- answer for Q3 -->
+    <string name="answers6">Al Ittefaq</string>
+    <string name="answers7">Al Shabab</string>
+    <string name="answers8">Al Tawen</string>
+    <string name="answers9">Al Khaleej</string>
+    <!-- answer for Q4 -->
+    <string name="answers10">True</string>
+    <string name="answers11">False</string>
+    <!-- answer for Q5 -->
+    <string name="answers12">True</string>
+    <string name="answers13">False</string>
+    <!-- answer for Q6 -->
+    <string name="answers14">Yaseer Al Qahtani</string>
+    <string name="answers15">Sami Al Jaber</string>
+    <string name="answers16">Yousef Al Thunayan</string>
+    <string name="answers17">Nwaf Al Temyat</string>
+    <!-- answer for Q7 -->
+    <string name="answers18">Mohammed Al Dayeae</string>
+    <string name="answers19">Mohammed Noor</string>
+    <string name="answers20">Saleh Al Nuaemah</string>
+    <string name="answers21">Majed Abdullah</string>
+
+</resources>
